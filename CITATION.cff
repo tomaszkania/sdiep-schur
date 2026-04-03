@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+title: sdiep-schur
+message: "If you use this software, please cite the accompanying paper and the repository."
+authors:
+  - family-names: Kania
+    given-names: Tomasz
+repository-code: https://github.com/tomaszkania/sdiep-schur
+license: GPL-3.0-or-later
