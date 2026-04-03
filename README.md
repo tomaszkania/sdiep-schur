@@ -15,14 +15,6 @@ It provides:
 
 The repository is organised in the same spirit as the companion project `quadratic_diagonal`: the core implementation lives under `src/`, experiments under `scripts/`, regression checks under `tests/`, generated data under `data/`, and the manuscript sources under `paper/`.
 
-## Recommended GitHub name
-
-Recommended repository name: **`sdiep-schur`**.
-
-A suitable one-line repository description is:
-
-> Reference implementation and reproducible experiments for Schur-template constructions in the symmetric doubly stochastic inverse eigenvalue problem (SDIEP), including cycle, phase-optimised, and Hadamard bases.
-
 ## What the software does
 
 Given a basis `Q` and a Suleĭmanova spectrum `Λ = diag(1, λ₂, …, λ_n)`, the package can:
